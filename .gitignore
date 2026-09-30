@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+dsa_tracker.db
+logs/
+reports/*.txt
+reports/*.json
+reports/*.csv
+
+*.egg-info/

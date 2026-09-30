@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Number of Islands",
+        "topic": "Graphs",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-30"
+    },
+    {
+        "title": "Trapping Rain Water",
+        "topic": "Arrays",
+        "difficulty": "Hard",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-29"
+    },
+    {
+        "title": "Best Time to Buy and Sell Stock",
+        "topic": "Arrays",
+        "difficulty": "Easy",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Daily Temperatures",
+        "topic": "Stack & Queue",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-26"
+    },
+    {
+        "title": "Find Minimum in Rotated Sorted Array",
+        "topic": "Searching",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-12"
+    },
+    {
+        "title": "Binary Search",
+        "topic": "Searching",
+        "difficulty": "Easy",
+        "platform": "LeetCode",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Minimum Window Substring",
+        "topic": "Strings",
+        "difficulty": "Hard",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Valid Parentheses",
+        "topic": "Strings",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-07"
+    },
+    {
+        "title": "Container With Most Water",
+        "topic": "Arrays",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-17"
+    },
+    {
+        "title": "Maximum Product Subarray",
+        "topic": "Dynamic Programming",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-08-18"
+    },
+    {
+        "title": "3Sum",
+        "topic": "Arrays",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-08-21"
+    },
+    {
+        "title": "Binary Tree Level Order Traversal",
+        "topic": "Trees",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-15"
+    },
+    {
+        "title": "3Sum Closest",
+        "topic": "Two Pointers",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-13"
+    },
+    {
+        "title": "Contains Duplicate",
+        "topic": "Arrays",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Largest Rectangle in Histogram",
+        "topic": "Stack & Queue",
+        "difficulty": "Hard",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-18"
+    },
+    {
+        "title": "Longest Consecutive Sequence",
+        "topic": "Hashing",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-16"
+    },
+    {
+        "title": "Longest Palindromic Substring",
+        "topic": "Strings",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Word Ladder",
+        "topic": "Graphs",
+        "difficulty": "Hard",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-17"
+    },
+    {
+        "title": "Longest Increasing Subsequence",
+        "topic": "Dynamic Programming",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Maximum Depth of Binary Tree",
+        "topic": "Trees",
+        "difficulty": "Easy",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Implement Queue Using Stacks",
+        "topic": "Stack & Queue",
+        "difficulty": "Easy",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-05"
+    },
+    {
+        "title": "Course Schedule",
+        "topic": "Graphs",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Remove Nth Node From End of List",
+        "topic": "Linked List",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-22"
+    },
+    {
+        "title": "Reverse Linked List",
+        "topic": "Linked List",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-08-27"
+    },
+    {
+        "title": "Move Zeroes",
+        "topic": "Two Pointers",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-03"
+    },
+    {
+        "title": "House Robber",
+        "topic": "Dynamic Programming",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Clone Graph",
+        "topic": "Graphs",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-29"
+    },
+    {
+        "title": "Top K Frequent Elements",
+        "topic": "Hashing",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Edit Distance",
+        "topic": "Dynamic Programming",
+        "difficulty": "Hard",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-18"
+    },
+    {
+        "title": "Koko Eating Bananas",
+        "topic": "Searching",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-06"
+    },
+    {
+        "title": "Rotting Oranges",
+        "topic": "Graphs",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-08-28"
+    },
+    {
+        "title": "Two Sum",
+        "topic": "Arrays",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-30"
+    },
+    {
+        "title": "Invert Binary Tree",
+        "topic": "Trees",
+        "difficulty": "Easy",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-18"
+    },
+    {
+        "title": "Merge K Sorted Lists",
+        "topic": "Linked List",
+        "difficulty": "Hard",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Longest Common Prefix",
+        "topic": "Strings",
+        "difficulty": "Easy",
+        "platform": "GeeksForGeeks",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Validate Binary Search Tree",
+        "topic": "Trees",
+        "difficulty": "Medium",
+        "platform": "GeeksForGeeks",
+        "status": "Solved",
+        "date_solved": "2026-09-20"
+    },
+    {
+        "title": "Serialize and Deserialize Binary Tree",
+        "topic": "Trees",
+        "difficulty": "Hard",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-09-14"
+    },
+    {
+        "title": "Product of Array Except Self",
+        "topic": "Arrays",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Group Anagrams",
+        "topic": "Strings",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-21"
+    },
+    {
+        "title": "Merge Two Sorted Lists",
+        "topic": "Linked List",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Solved",
+        "date_solved": "2026-08-29"
+    },
+    {
+        "title": "Coin Change",
+        "topic": "Dynamic Programming",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-07"
+    },
+    {
+        "title": "Search in Rotated Sorted Array",
+        "topic": "Searching",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Climbing Stairs",
+        "topic": "Dynamic Programming",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Valid Anagram",
+        "topic": "Strings",
+        "difficulty": "Easy",
+        "platform": "CodeChef",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Two Sum II",
+        "topic": "Two Pointers",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-09-23"
+    },
+    {
+        "title": "Flood Fill",
+        "topic": "Graphs",
+        "difficulty": "Easy",
+        "platform": "GeeksForGeeks",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Maximum Subarray",
+        "topic": "Arrays",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Solved",
+        "date_solved": "2026-08-25"
+    },
+    {
+        "title": "Longest Substring Without Repeating Characters",
+        "topic": "Strings",
+        "difficulty": "Medium",
+        "platform": "LeetCode",
+        "status": "Unsolved",
+        "date_solved": null
+    },
+    {
+        "title": "Median of Two Sorted Arrays",
+        "topic": "Searching",
+        "difficulty": "Hard",
+        "platform": "LeetCode",
+        "status": "Attempted",
+        "date_solved": null
+    },
+    {
+        "title": "Reorder List",
+        "topic": "Linked List",
+        "difficulty": "Medium",
+        "platform": "CodeChef",
+        "status": "Unsolved",
+        "date_solved": null
+    }
+]
